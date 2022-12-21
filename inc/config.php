@@ -9,13 +9,13 @@ ini_set("display_errors", "on");
  * Site URL
  * No '/' at the end
  */
-define("HOST", "//search.axads.co");
-define("CDNHOST", "//cdn.search.axads.co");
+define("HOST", "//domain.com");
+define("CDNHOST", "//cdn.domain.com");
 define("OPENSHIFT_MYSQL_DB_HOST", "localhost");
 define("OPENSHIFT_MYSQL_DB_PORT", "3306");
-define("OPENSHIFT_MYSQL_DB_USERNAME", "axworx05_ax");
-define("OPENSHIFT_MYSQL_DB_PASSWORD", "36g5a12A%B2");
-define("OPENSHIFT_GEAR_NAME", "axworx05_search");
+define("OPENSHIFT_MYSQL_DB_USERNAME", "user");
+define("OPENSHIFT_MYSQL_DB_PASSWORD", "pass");
+define("OPENSHIFT_GEAR_NAME", "db_name");
 
 $host = OPENSHIFT_MYSQL_DB_HOST;
 $port = OPENSHIFT_MYSQL_DB_PORT;
