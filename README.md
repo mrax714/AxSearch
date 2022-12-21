@@ -1,6 +1,8 @@
 AxSearch
 ======
 
+WARNING!!! Not ready for use
+
 An Open Source Search Engine
 Completely written in PHP and uses the following PHP libraries :
 
