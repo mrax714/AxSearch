@@ -1,7 +1,7 @@
 AxSearch
 ======
 
-WARNING!!! Not ready for use
+#WARNING!!! Not ready for use
 
 An Open Source Search Engine
 Completely written in PHP and uses the following PHP libraries :
@@ -20,4 +20,3 @@ UPDATE (2020): The site is down because I can't affort to host one, you can see 
 ## SQL
 
 This repo was made from [this tutorial](https://subinsb.com/search-engine-in-php-part-1). SQL file can be found in [Part 2](http://subinsb.com/search-engine-in-php-part-2)
-# AxSearch
