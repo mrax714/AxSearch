@@ -1,0 +1,54 @@
+[20-Dec-2022 20:21:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPCrawler' not found in /home2/axworx05/search.axads.co/crawler/crawl.php:86
+Stack trace:
+#0 /home2/axworx05/search.axads.co/crawler/admin/home.php(137): include()
+#1 {main}
+  thrown in /home2/axworx05/search.axads.co/crawler/crawl.php on line 86
+[20-Dec-2022 20:29:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/axworx05/search.axads.co/crawler/crawl.php:46
+Stack trace:
+#0 /home2/axworx05/search.axads.co/crawler/crawl.php(120): addURL('Helga flaunts h...', 'https://www.bab...', 'Free gallery of...', 'https://www.bab...')
+#1 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(703): WSCrawler->handleDocumentInfo(Object(PHPCrawlerDocumentInfo))
+#2 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(593): PHPCrawler->processUrl(Object(PHPCrawlerURLDescriptor))
+#3 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(363): PHPCrawler->startChildProcessLoop()
+#4 /home2/axworx05/search.axads.co/crawler/crawl.php(180): PHPCrawler->go()
+#5 /home2/axworx05/search.axads.co/crawler/crawl.php(224): crawl('https://www.bab...')
+#6 /home2/axworx05/search.axads.co/crawler/admin/home.php(137): include('/home2/axworx05...')
+#7 {main}
+  thrown in /home2/axworx05/search.axads.co/crawler/crawl.php on line 46
+[20-Dec-2022 20:33:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/axworx05/search.axads.co/crawler/crawl.php:47
+Stack trace:
+#0 /home2/axworx05/search.axads.co/crawler/crawl.php(121): addURL('HD Porn Videos ...', 'https://www.epo...', 'Watch Full HD P...', 'https://static-...')
+#1 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(703): WSCrawler->handleDocumentInfo(Object(PHPCrawlerDocumentInfo))
+#2 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(593): PHPCrawler->processUrl(Object(PHPCrawlerURLDescriptor))
+#3 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(363): PHPCrawler->startChildProcessLoop()
+#4 /home2/axworx05/search.axads.co/crawler/crawl.php(181): PHPCrawler->go()
+#5 /home2/axworx05/search.axads.co/crawler/crawl.php(225): crawl('https://www.epo...')
+#6 /home2/axworx05/search.axads.co/crawler/admin/home.php(137): include('/home2/axworx05...')
+#7 {main}
+  thrown in /home2/axworx05/search.axads.co/crawler/crawl.php on line 47
+[20-Dec-2022 20:33:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/axworx05/search.axads.co/crawler/crawl.php:47
+Stack trace:
+#0 /home2/axworx05/search.axads.co/crawler/crawl.php(121): addURL('HD Porn Videos ...', 'https://www.epo...', 'Watch Full HD P...', 'https://static-...')
+#1 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(703): WSCrawler->handleDocumentInfo(Object(PHPCrawlerDocumentInfo))
+#2 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(593): PHPCrawler->processUrl(Object(PHPCrawlerURLDescriptor))
+#3 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(363): PHPCrawler->startChildProcessLoop()
+#4 /home2/axworx05/search.axads.co/crawler/crawl.php(181): PHPCrawler->go()
+#5 /home2/axworx05/search.axads.co/crawler/crawl.php(225): crawl('https://www.epo...')
+#6 /home2/axworx05/search.axads.co/crawler/admin/home.php(137): include('/home2/axworx05...')
+#7 {main}
+  thrown in /home2/axworx05/search.axads.co/crawler/crawl.php on line 47
+[20-Dec-2022 20:36:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPCrawler' not found in /home2/axworx05/search.axads.co/crawler/crawl.php:82
+Stack trace:
+#0 /home2/axworx05/search.axads.co/crawler/admin/home.php(137): include()
+#1 {main}
+  thrown in /home2/axworx05/search.axads.co/crawler/crawl.php on line 82
+[20-Dec-2022 20:37:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/axworx05/search.axads.co/crawler/crawl.php:47
+Stack trace:
+#0 /home2/axworx05/search.axads.co/crawler/crawl.php(121): addURL('HD Porn Videos ...', 'https://www.epo...', 'Watch Full HD P...', 'https://static-...')
+#1 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(703): WSCrawler->handleDocumentInfo(Object(PHPCrawlerDocumentInfo))
+#2 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(593): PHPCrawler->processUrl(Object(PHPCrawlerURLDescriptor))
+#3 /home2/axworx05/search.axads.co/crawler/PHPCrawl/libs/PHPCrawler.class.php(363): PHPCrawler->startChildProcessLoop()
+#4 /home2/axworx05/search.axads.co/crawler/crawl.php(181): PHPCrawler->go()
+#5 /home2/axworx05/search.axads.co/crawler/crawl.php(225): crawl('https://www.epo...')
+#6 /home2/axworx05/search.axads.co/crawler/admin/home.php(137): include('/home2/axworx05...')
+#7 {main}
+  thrown in /home2/axworx05/search.axads.co/crawler/crawl.php on line 47
